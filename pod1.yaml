@@ -1,0 +1,1 @@
+To exit Vi/Vim, use the :q command and hit [Enter]. Exit File in Vi Editor. To save a file and exit Vi/Vim simultaneously, use the :wq command and hit [Enter] or :x command. Save and Exit File in Vi. If you make changes to a file but try to quite 
